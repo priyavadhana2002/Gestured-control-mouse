@@ -7,4 +7,4 @@ Prerequisites:
 ✅ PyCharm (https://www.jetbrains.com/pycharm/download/) or any other Python code editor 
 ✅ pip install: OpenCV (https://pypi.org/project/opencv-python/), MediaPipe, AutoPy  
 -----------------------------------------  
-To learn more about The Assembly’s workshops, visit our website, social media or email us at workshops@theassembly.ae  Our website: http://theassembly.ae Instagram: http://instagram.com/makesmartthings Facebook: http://fb.com/makesmartthings Twitter: http://twitter.com/makesmartthings
+
